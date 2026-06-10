@@ -1,4 +1,4 @@
-# ai-data-assistant
+# AI_Data_Assistant
 Application of AI for Data Assistance.
 This project allows users to upload datasets and ask questions using AI.
 
